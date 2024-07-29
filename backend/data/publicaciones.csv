@@ -1,0 +1,4 @@
+﻿id,tipo,nombre,autor,rol,descripcion
+1,Libro,Libro Juan,Juan,Estudiante,Libro del estudiante Juan
+2,Revista,Revista Hugo,Hugo,Docente,Revista del docente Hugo
+3,Publicación,Publicación Inéz,Inéz,Docente,Publicación de Inéz
